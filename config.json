@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configverify",
+        "uuid": 93155,
+        "checksum": "ln4n2o"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
